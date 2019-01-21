@@ -1,4 +1,4 @@
 # navigation
 ```bash
->> gunicorn -D navication.wsgi:application --bind 0.0.0.0:8081
+>> gunicorn -D navigation.wsgi:application --bind 0.0.0.0:8081
 ```
