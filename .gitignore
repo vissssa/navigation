@@ -1,5 +1,5 @@
 .idea
-navigation/setting.py
+navigation/settings.py
 .tx
 migrations
 # Byte-compiled / optimized / DLL files
